@@ -14,6 +14,8 @@ int main(void) {
 
         } else if( start == 0 ) {
 
+        } else {
+            
         }
     }
 }
